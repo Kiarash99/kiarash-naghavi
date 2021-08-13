@@ -17,7 +17,7 @@ main:
     url: "#accomplishments"
     weight: 30
   - name: CV
-    url: "#cv"
+    url: "/uploads/cv.pdf"
     weight: 30
 
   # - name: Projects
