@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:naghavikiarash@yahoo.com
   - icon: skype
     icon_pack: fab
     link: https://join.skype.com/invite/aq2UXbeiDkdW
