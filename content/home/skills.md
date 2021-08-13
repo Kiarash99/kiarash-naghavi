@@ -28,6 +28,18 @@ feature:
     description: Abaqus, XFLR, EES, CES Edupack, GasTurb, Expert Choice, Arduino, profili, Proteus
     icon: cogs
     icon_pack: fas
+  - name: Project Management
+    description: Microsoft Project
+    icon: user
+    icon_pack: fas
+  - name: Document Preparation
+    description: LaTeX, Microsoft Word
+    icon: file
+    icon_pack: fa
+  - name: Presentation Spreadsheet
+    description: Microsoft PowerPoint, Prezi, Excel, Xmind, Pages, Keynote
+    icon: eye
+    icon_pack: fa
 # - description: 90%
 #   icon: r-project
 #   icon_pack: fab
