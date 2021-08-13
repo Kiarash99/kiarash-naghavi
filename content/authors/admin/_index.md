@@ -4,9 +4,11 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multi-disciplinary Design Optimization
+  - Heuristic and Metaheuristic Algorithms
+  - Operations Research
+  - Machine Learning
+  - Project Control
 social:
   - icon: envelope
     icon_pack: fas
