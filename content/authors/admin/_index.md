@@ -1,8 +1,8 @@
 ---
 role: B.Sc. Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Multi-disciplinary Design
+  Optimization,Machine Learning, and Project Control.
 interests:
   - Multi-disciplinary Design Optimization
   - Heuristic and Metaheuristic Algorithms
