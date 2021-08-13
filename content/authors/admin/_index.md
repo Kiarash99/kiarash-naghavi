@@ -1,8 +1,8 @@
 ---
 role: B.Sc. Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Multi-disciplinary Design
+  Optimization,Machine Learning, and Project Control.
 interests:
   - Multi-disciplinary Design Optimization
   - Heuristic and Metaheuristic Algorithms
@@ -37,9 +37,6 @@ highlight_name: false
 title: Kiarash Naghavi
 email: ""
 ---
+My name is Kiarash Naghavi, and I am a Bachelor’s student in Aerospace Engineering at the Sharif University of Technology in Tehran, Iran. My bachelor’s thesis focuses on Multidisciplinary Design Optimization of a Nanorobot for Drug Delivery to Cancer Cells Based on Genetic Algorithm. I model functions then optimize the design parameters by the Genetic Algorithm. My goal is to expand my perspective about Multidisciplinary Design Optimization and machine learning that leads to these areas.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
