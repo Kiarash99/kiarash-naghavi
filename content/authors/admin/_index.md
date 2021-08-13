@@ -11,18 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: skype
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://join.skype.com/invite/aq2UXbeiDkdW
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://linkedin.com/in/kiarash-naghavi-93491193
 organizations:
   - name: Department of Aerospace Engineering
     url: http://ae.sharif.ir/
@@ -33,12 +27,9 @@ education:
     - course: B.Sc. in Aerospace Engineering
       institution: Sharif University of Technology
       year: ""
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Physics and mathematics Diploma
+      institution: Mandegar Alborz High School
+      year: ""
 superuser: true
 highlight_name: false
 title: Kiarash Naghavi
