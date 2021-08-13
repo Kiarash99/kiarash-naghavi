@@ -11,10 +11,13 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Research
+      tag: Research
+    - name: Teaching Assistant
+      tag: Teaching Assistant
+    - name: Academic Projects
+      tag: Academic Projects
+
 design:
   columns: "2"
   view: 2
