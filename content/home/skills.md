@@ -16,10 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: MATLAB/Simulink, Python, C, Swift
-    icon: fa-code
+  - name: Programming Languages
+    description: MATLAB/Simulink, Python, C, Swift
+    icon: code
     icon_pack: fas
-    name: Programming Languages
+  - name: Modeling Programs
+    description: Solidworks, AutoCad
+    icon: object-group
+    icon_pack: fas
+  - name: Engineering Programs
+    description: Abaqus, XFLR, EES, CES Edupack, GasTurb, Expert Choice, Arduino, profili, Proteus
+    icon: cogs
+    icon_pack: fas
 # - description: 90%
 #   icon: r-project
 #   icon_pack: fab
