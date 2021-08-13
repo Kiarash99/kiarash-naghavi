@@ -1,6 +1,7 @@
 ---
 title: Kiarash Naghavi
-role: Professor of Artificial Intelligence
+role: B.Sc. Student
+avatar_filename: profileimg.177df9e5.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,8 +25,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Department of Aerospace Engineering
+    url: http://ae.sharif.ir/
+  - name: Sharif University of Technology
+    url: http://www.sharif.ir/web/en/home
 education:
   courses:
     - course: PhD in Artificial Intelligence
