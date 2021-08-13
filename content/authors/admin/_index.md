@@ -1,7 +1,7 @@
 ---
 title: Kiarash Naghavi
 role: B.Sc. Student
-avatar_filename: profileimg.177df9e5.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
