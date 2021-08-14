@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - Academic Projects
-external_link: https://kiarash-naghavi.netlify.app/project/Sharif_Aero_Mega_Project/
+external_link: https://kiarash-naghavi.netlify.app/project/sharif-aero-mega-project/
 image:
   filename: featured.jpg
   focal_point: Smart
