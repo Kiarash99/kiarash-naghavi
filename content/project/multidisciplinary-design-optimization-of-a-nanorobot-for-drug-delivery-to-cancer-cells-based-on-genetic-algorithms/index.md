@@ -8,7 +8,9 @@ draft: false
 featured: false
 tags:
   - Research
-external_link: https://kiarash-naghavi.netlify.app/Multidisciplinary
+external_link: https://kiarash-naghavi.netlify.app/Multidisciplinary Design
+  Optimization of a Nanorobot for Drug Delivery to Cancer Cells Based on Genetic
+  Algorithms
 image:
   filename: featured
   focal_point: Smart
