@@ -6,6 +6,8 @@ summary: Teaching Assistantship for the "Mechanics of Vibrations" by Asst. Prof.
   H. Navazi
 draft: false
 featured: false
+tags:
+  - Teaching Assistant
 external_link: https://kiarash-naghavi.netlify.app/project
 image:
   filename: featured
