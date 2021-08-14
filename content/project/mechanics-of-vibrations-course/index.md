@@ -2,8 +2,8 @@
 title: Mechanics of Vibrations Course
 subtitle: Spring 2021
 date: 2021-08-14T12:08:35.752Z
-summary: Teaching Assistantship for the "Mechanics of Vibrations" by Asst. Prof.
-  H. Navazi
+summary: '**Teaching Assistantship** for the "Mechanics of Vibrations" by Asst.
+  Prof. H. Navazi'
 draft: false
 featured: false
 tags:
