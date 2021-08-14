@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Teaching Assistantship for the "Mechanics of Vibrations" by Asst. Prof. H. Navazi
+**Teaching Assistantship** for the "Mechanics of Vibrations" by Asst. Prof. H. Navazi
