@@ -8,7 +8,7 @@ draft: false
 featured: false
 tags:
   - Teaching Assistant
-external_link: https://kiarash-naghavi.netlify.app/project/Mechanics_of_Vibrations Course
+external_link: https://kiarash-naghavi.netlify.app/project
 image:
   filename: featured
   focal_point: Smart
