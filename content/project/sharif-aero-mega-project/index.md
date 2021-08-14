@@ -9,8 +9,8 @@ tags:
   - Academic Projects
 external_link: https://kiarash-naghavi.netlify.app/project/Sharif_Aero_Mega_Project/
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-Position: Project Manager
+I was the Project Manager of this team, and I also had minor responsibilities at the structure division.
