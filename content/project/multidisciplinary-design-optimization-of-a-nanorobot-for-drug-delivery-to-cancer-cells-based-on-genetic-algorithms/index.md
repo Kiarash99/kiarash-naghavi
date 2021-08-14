@@ -8,7 +8,7 @@ draft: false
 featured: false
 tags:
   - Research
-external_link: https://kiarash-naghavi.netlify.app/multi
+external_link: https://kiarash-naghavi.netlify.app/Multidisciplinary
 image:
   filename: featured
   focal_point: Smart
