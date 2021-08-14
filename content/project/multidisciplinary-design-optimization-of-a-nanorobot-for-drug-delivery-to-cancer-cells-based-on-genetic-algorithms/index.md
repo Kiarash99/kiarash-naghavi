@@ -1,6 +1,7 @@
 ---
 title: Multidisciplinary Design Optimization of a Nanorobot for Drug Delivery to
   Cancer Cells Based on Genetic Algorithms
+subtitle: Spring 2021 – present
 date: 2021-08-14T11:21:23.924Z
 summary: My Bachelors thesis under supervision of Associate Professor Ali
   Abedian. Stay tuned for the upcoming preprint.
@@ -20,15 +21,15 @@ This project is a joint project with Ms.Saeide kazembeigi as her M.Sc project.
 
 Objectives :
 
-1- Application of meta-heuristic algorithm methods in multiobjective design optimization problems  
-2- Maximizing the volume-to-surface ratio to be able to carry the maximum amount of drug  
-3-Minimizing hydrodynamic force to reduce drag force applied to the nanobot  
-4-Minimizing the magnetic field for minor biological damage to the patient  
+1- Application of meta-heuristic algorithm methods in multiobjective design optimization problems\
+2- Maximizing the volume-to-surface ratio to be able to carry the maximum amount of drug\
+3-Minimizing hydrodynamic force to reduce drag force applied to the nanobot\
+4-Minimizing the magnetic field for minor biological damage to the patient\
 5-Minimizing time to speed up drug delivery to the cells
 
- Innovations:
+ Innovations :
 
- 1- Applying a multidisciplinary design optimization method for a nanorobot.  
- 2-Comparison of two multidisciplinary metaheuristic algorithms.  
- 3-Simultaneous optimization of objective functions such as volume to the surface of nanoparticles, hydrodynamic force 􏰇􏰆, magnetic field 􏰆.   
- 4-Consider design disciplines, including hydrodynamics, propulsion, control, and guidance.    
+ 1- Applying a multidisciplinary design optimization method for a nanorobot.\
+ 2-Comparison of two multidisciplinary metaheuristic algorithms.\
+ 3-Simultaneous optimization of objective functions such as volume to the surface of nanoparticles, hydrodynamic force 􏰇􏰆, magnetic field 􏰆.\
+ 4-Consider design disciplines, including hydrodynamics, propulsion, control, and guidance.
