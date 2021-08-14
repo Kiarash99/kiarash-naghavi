@@ -13,4 +13,18 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I was the Project Manager of this team, and I also had minor responsibilities at the structure division.
+I was the Project Manager of this team, and I also had minor responsibilities at the structure division.\
+\
+\
+\
+\
+\
+You can watch Team_poster Here.\
+\
+\
+\
+Team gathering: 
+
+
+
+![](1400-05-13-19.28.58.jpg)
