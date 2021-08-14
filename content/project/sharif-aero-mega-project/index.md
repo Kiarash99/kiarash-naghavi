@@ -9,7 +9,7 @@ tags:
   - Academic Projects
 external_link: https://kiarash-naghavi.netlify.app/project/sharif-aero-mega-project/
 image:
-  filename: featured.jpg
+  filename: featuerd.jpg
   focal_point: Smart
   preview_only: false
 ---
