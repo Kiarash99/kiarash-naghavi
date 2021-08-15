@@ -16,7 +16,7 @@ image:
   caption: Fall 2020
   alt_text: 2021 American Institute of Aeronautics and Astronautics competition
 ---
-I was associated with six people to propose a conceptual design for a modern regional jet airplane. I had the responsibility of designing the structure segment. You can see the design report [Here](https://drive.google.com/file/d/1zjaI7Zpbw9jzJ7yyZnJEqzVNpq3wpyNh/view?usp=sharing).
+I was associated with six people to propose a conceptual design for a modern regional jet airplane. I was responsible for designing the Fuselage, being specific, and providing assistance to other structure segments. You can see the design report [Here](https://drive.google.com/file/d/1zjaI7Zpbw9jzJ7yyZnJEqzVNpq3wpyNh/view?usp=sharing).
 
 ![Team meeting](tg_image_2108201036.jpeg "Team meeting")
 
