@@ -18,8 +18,7 @@ image:
 ---
 I was associated with six people to propose a conceptual design for a modern regional jet airplane. I had the responsibility of designing the structure segment. 
 
-
-Some parts of the project's RFP : 
+Some parts of the project's [RFP](https://www.aiaa.org/docs/default-source/uploadedfiles/education-and-careers/university-students/design-competitions/graduate-team-aircraft-design-competition/aiaa-2021-graduate-team-aircraft-design-rfp---modern-regional-jet-family-(1).pdf?sfvrsn=df0737a7_0) : 
 
 The smaller regional jet market currently has products based on older designs with their origins in the late 1980s and early 1990s. The 50 seat Canadian Regional Jet (CRJ) and Embraer 145 first flew in the early 1990s and made up most of the domestic, regional jet fleet.
 The industry analyses forecast that as many as 2,000 new regional aircraft being needed in the next 20 years. This presents an opportunity to develop new regional aircraft to satisfy the 50-seat portion of the market that meets the US domestic "Scope Clause" that has significantly better fuel burn and economics than existing options. The overall goal is to be at least 20% better than existing 50-seat regional jets in 500 n mi block fuel per seat with a cost to build comparable to the existing aircraft.
