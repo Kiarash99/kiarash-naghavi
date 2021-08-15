@@ -8,7 +8,7 @@ draft: false
 featured: false
 tags:
   - Academic Projects
-external_link: https://kiarash-naghavi.netlify.app
+external_link: https://kiarash-naghavi.netlify.app/project/conceptual_design_of_a_modern_regional_jet/
 image:
   filename: featured
   focal_point: Smart
