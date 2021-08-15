@@ -10,7 +10,7 @@ tags:
   - Academic Projects
 external_link: https://kiarash-naghavi.netlify.app/project/conceptual-design-of-a-modern-regional-jet/
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Fall 2020
