@@ -13,7 +13,7 @@ links:
   - url: https://kiarash-naghavi.netlify.app/#about
     name: Certificate
   - name: Slides
-    url: https://kiarash-naghavi.netlify.app/#about
+    url: https://drive.google.com/file/d/1t-we0MhWanWaLZmHNh_yUQIKNxaEDqqt/view?usp=sharing
 image:
   filename: featured.jpeg
   focal_point: Smart
