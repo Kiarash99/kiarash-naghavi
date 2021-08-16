@@ -1,6 +1,6 @@
 ---
 title: Multidisciplinary Design Optimization of a Nanorobot for Drug Delivery to
-  Cancer Cells Based on Genetic Algorithms
+  Cancer Cells Based on Metaheuristic Algorithms
 subtitle: Spring 2021 – present
 date: 2021-08-14T11:21:23.924Z
 summary: My Bachelors thesis under supervision of Associate Professor Ali
@@ -9,12 +9,12 @@ draft: false
 featured: false
 tags:
   - Research
-external_link: https://kiarash-naghavi.netlify.app/project/multidisciplinary-design-optimization-of-a-nanorobot-for-drug-delivery-to-cancer-cells-based-on-genetic-algorithms/
+external_link: https://kiarash-naghavi.netlify.app/project/multidisciplinary-design-optimization-of-a-nanorobot-for-drug-delivery-to-cancer-cells-based-on-metaheuristic-algorithms/
 image:
   filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 ---
-This research aims to optimize the design of a nanorobot structure to optimize hydrodynamics, propulsion, control, and guidance's objective functions like magnetic field and hydrodynamic force. First, we compare different multidisciplinary metaheuristic algorithms and choose the best approach for this research, then derive our required formulas and data from various papers about the magnetic field, hydrodynamic force, blood properties like velocity and pressure, and likewise. Then, by optimizing the nanorobot's structure with genetic algorithms, we want to minimize the objective function of the hydrodynamic force to lessen the drag force applied to the nanorobot. Additionally, for the minor biological damage to the patient and to maximize the speed of drug delivery to the cell, we considered minimizing the target functions of the magnetic field and time, respectively.
+This research aims to optimize the design of a nanorobot structure to optimize hydrodynamics, propulsion, control, and guidance's objective functions like magnetic field and hydrodynamic force. First, we compare different multidisciplinary metaheuristic algorithms and choose the best approach for this research, then derive our required formulas and data from various papers about the magnetic field, hydrodynamic force, blood properties like velocity and pressure, and likewise. Then, by optimizing the nanorobot's structure with a suitable metaheuristic algorithm, we want to minimize the objective function of the hydrodynamic force to lessen the drag force applied to the nanorobot. Additionally, for the minor biological damage to the patient and to maximize the speed of drug delivery to the cell, we considered minimizing the target functions of the magnetic field and time, respectively.
 
 This project is a joint project with [Ms.Saeide kazembeigi ](https://www.linkedin.com/in/saeide-kazembeigi/)as her M.Sc project, under [Associate Professor Ali Abedian](http://ae.sharif.edu/~portal/faculty/1921714931).
