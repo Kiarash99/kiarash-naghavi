@@ -35,8 +35,8 @@ item:
   date_end: ""
   date_start: "2021-01-01"
   description: Combustion Modeling by Prof. Alberto Cuoci, The first Iranian Combustion School 2019
-  organization: edX
-  organization_url: Sharif University of Technology
+  organization:Sharif University of Technology
+  organization_url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
   title: Combustion Modeling by Prof. Alberto Cuoci
   url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
 - certificate_url: https://www.datacamp.com
