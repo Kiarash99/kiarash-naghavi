@@ -38,7 +38,7 @@ item:
   organization:Sharif University of Technology
   organization_url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
   title: Combustion Modeling by Prof. Alberto Cuoci
-  url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
