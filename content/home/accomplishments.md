@@ -34,11 +34,11 @@ item:
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: Combustion Modeling by Prof. Alberto Cuoci, The first Iranian Combustion School 2019
   organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  organization_url: Sharif University of Technology
+  title: Combustion Modeling by Prof. Alberto Cuoci
+  url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
