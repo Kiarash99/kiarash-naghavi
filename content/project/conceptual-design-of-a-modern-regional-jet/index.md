@@ -9,6 +9,9 @@ featured: false
 tags:
   - Academic Projects
 external_link: https://kiarash-naghavi.netlify.app/project/conceptual-design-of-a-modern-regional-jet/
+links:
+  - url: https://drive.google.com/file/d/1V6q68MLjGglk2vYhsKY06SVErYTdiVIG/view?usp=sharing
+    name: Design Poster
 image:
   filename: featured.jpg
   focal_point: Smart
