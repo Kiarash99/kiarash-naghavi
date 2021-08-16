@@ -8,7 +8,7 @@ featured: false
 tags:
   - Academic Projects
 categories: []
-external_link: https://kiarash-naghavi.netlify.app/rover
+external_link: https://kiarash-naghavi.netlify.app/project/design-build-an-autonomously-operatable-rover/
 links:
   - url: https://kiarash-naghavi.netlify.app/#about
     name: Certificate
