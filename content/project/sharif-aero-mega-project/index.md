@@ -8,6 +8,11 @@ featured: false
 tags:
   - Academic Projects
 external_link: https://kiarash-naghavi.netlify.app/project/sharif-aero-mega-project/
+links:
+  - url: https://www.instagram.com/sharifaeromegaproject/
+    name: Follow
+    icon_pack: fab
+    icon: instagram
 image:
   filename: featuerd.jpg
   focal_point: Smart
