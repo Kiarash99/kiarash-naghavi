@@ -15,8 +15,8 @@ links:
     icon: instagram
   - url: https://drive.google.com/file/d/1A5buO3ZXzjyVoncwM5hMZ7usFCqPfOL9/view?usp=sharing
     name: slides
-    icon_pack: ai
-    icon: slide
+    icon_pack: null
+    icon: ""
 image:
   filename: featuerd.jpg
   focal_point: Smart
