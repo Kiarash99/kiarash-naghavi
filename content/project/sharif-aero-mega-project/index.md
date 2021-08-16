@@ -10,7 +10,7 @@ tags:
 external_link: https://kiarash-naghavi.netlify.app/project/sharif-aero-mega-project/
 links:
   - url: https://www.instagram.com/sharifaeromegaproject/
-    name: Follow
+    name: Follow on instagram
     icon_pack: fab
     icon: instagram
 image:
