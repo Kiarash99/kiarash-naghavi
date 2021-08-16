@@ -14,9 +14,9 @@ links:
     icon_pack: fab
     icon: instagram
   - url: https://drive.google.com/file/d/1A5buO3ZXzjyVoncwM5hMZ7usFCqPfOL9/view?usp=sharing
-    name: Team Poster
+    name: slides
     icon_pack: ai
-    icon: team
+    icon: slide
 image:
   filename: featuerd.jpg
   focal_point: Smart
