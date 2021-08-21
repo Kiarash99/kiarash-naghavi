@@ -2,7 +2,7 @@
 title: Multidisciplinary Design Optimization of a Nanorobot for Drug Delivery to
   Cancer Cells Based on Metaheuristic Algorithms
 subtitle: Spring 2021 – present
-date: 2021-08-14T11:21:23.924Z
+date: 2021-08-21T18:42:20.412Z
 summary: My Bachelors thesis under supervision of Associate Professor Ali
   Abedian. Stay tuned for the upcoming preprint.
 draft: false
