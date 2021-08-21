@@ -13,8 +13,7 @@ abstract: This research aims to optimize the design of a nanorobot structure to
   to the nanorobot. Additionally, for the minor biological damage to the patient
   and to maximize the speed of drug delivery to the cell, we considered
   minimizing the target functions of the magnetic field and time, respectively.
-date: Spring 2021 
-date_end: present
+
 all_day: false
 links:
   - name: Project Page
