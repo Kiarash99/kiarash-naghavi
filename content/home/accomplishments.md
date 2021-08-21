@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://loopacademy.io
+- certificate_url: https://drive.google.com/file/d/1QkKjuG8y5GNOw-MY8FnT2B3UcSOE2TVx/view?usp=sharing
   date_end: "2021-07-30"
   date_start: "2021-07-22"
   description: ""
@@ -31,7 +31,7 @@ item:
   organization_url: https://loopacademy.io
   title: Reinforcement Learning Workshop
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://drive.google.com/file/d/1EZ3UY3LWyPovE7P9mEja89nh2W8TK9hw/view?usp=sharing
   date_end: ""
   date_start: "2020-03-24"
   description: ""
@@ -39,7 +39,7 @@ item:
   organization_url: https://robotech-academy.com
   title: Preliminary Robotics and Mechatronics
   url: ""
-- certificate_url: https://www.datacamp.com
+- certificate_url: https://drive.google.com/file/d/1Y8jNyQ_M5K8-Cp40Y2QJoByIi6b2i2Py/view?usp=sharing
   date_end: ""
   date_start: "2019-07-01"
   description: Combustion Modeling by Prof. Alberto Cuoci, The first Iranian Combustion School 2019.
