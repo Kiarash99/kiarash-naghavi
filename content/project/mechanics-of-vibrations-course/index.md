@@ -15,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Teaching Assistantship** for the "[Mechanics of Vibrations](http://ae.sharif.edu/~portal/faculty/1545121462)" by Asst. Prof. H. Navazi
+**Teaching Assistantship** for the "[Mechanics of Vibrations](http://ae.sharif.edu/~portal/faculty/1545121462)" by Asst. Prof. H.Mohammad Navazi
