@@ -11,7 +11,7 @@ tags:
   - Teaching Assistant
 external_link: https://kiarash-naghavi.netlify.app/project
 image:
-  filename: fetaured.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
