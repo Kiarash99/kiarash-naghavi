@@ -23,4 +23,3 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-Following is a non-comprehensive list of my academic projects. For a complete list of my projects, please review my CV.
