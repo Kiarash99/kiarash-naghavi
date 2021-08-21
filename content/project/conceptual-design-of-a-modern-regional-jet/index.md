@@ -1,7 +1,7 @@
 ---
 title: Conceptual Design of a Modern Regional Jet
 subtitle: 2021 American Institute of Aeronautics and Astronautics competition
-date: 2021-08-15T13:25:20.848Z
+date: 2021-08-21T18:43:25.326Z
 summary: 2021 American Institute of Aeronautics and Astronautics
   competition-Airplane Design (I) by Assoc. Prof. A. Banazadeh
 draft: false
