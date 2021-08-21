@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "Summer 2021"
+  date_start: "2020-03-24"
   description: ""
   organization: Robotech Academy
   organization_url: https://robotech-academy.com
