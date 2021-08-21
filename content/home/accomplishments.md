@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://loopacademy.io
+  date_end: "2021-07-30"
+  date_start: "2021-07-22"
   description: ""
-  organization: Robotech Academy
-  organization_url: https://robotech-academy.com
-  title: Preliminary Robotics and Mechatronics
+  organization: Loop Academy
+  organization_url: https://loopacademy.io
+  title: Reinforcement Learning Workshop
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
-  description:Combustion Modeling by Prof. Alberto Cuoci, The first Iranian Combustion School 2019
-  organization: Sharif University of Technology
-  organization_url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
-  title: Combustion Modeling by Prof. Alberto Cuoci
-  url: ""
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
