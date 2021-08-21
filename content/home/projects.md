@@ -4,7 +4,7 @@ widget_id: " experience"
 headless: true
 weight: 40
 title: " Experience"
-subtitle: " "
+subtitle: ""
 content:
   page_type: project
   filter_default: 0
