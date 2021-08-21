@@ -12,6 +12,8 @@ external_link: https://kiarash-naghavi.netlify.app/project/conceptual-design-of-
 links:
   - url: https://drive.google.com/file/d/1V6q68MLjGglk2vYhsKY06SVErYTdiVIG/view?usp=sharing
     name: Design Poster
+  - url: https://drive.google.com/file/d/1zjaI7Zpbw9jzJ7yyZnJEqzVNpq3wpyNh/view?usp=sharing
+    name: Final Report
 image:
   filename: featured.jpg
   focal_point: Smart
