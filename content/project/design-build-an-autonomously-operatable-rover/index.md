@@ -10,7 +10,7 @@ tags:
 categories: []
 external_link: https://kiarash-naghavi.netlify.app/project/design-build-an-autonomously-operatable-rover/
 links:
-  - url: https://kiarash-naghavi.netlify.app/#about
+  - url: https://drive.google.com/file/d/1EZ3UY3LWyPovE7P9mEja89nh2W8TK9hw/view
     name: Certificate
   - name: Slides
     url: https://drive.google.com/file/d/1t-we0MhWanWaLZmHNh_yUQIKNxaEDqqt/view?usp=sharing
