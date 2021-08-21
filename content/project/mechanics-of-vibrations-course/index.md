@@ -4,7 +4,7 @@ subtitle: Spring 2021
 date: 2021-08-14T12:08:35.752Z
 summary: '**Teaching Assistantship** for the "[Mechanics of
   Vibrations](http://ae.sharif.edu/~portal/faculty/1545121462)" by Asst. Prof.
-  H. Navazi'
+  H.Mohammad Navazi'
 draft: false
 featured: false
 tags:
