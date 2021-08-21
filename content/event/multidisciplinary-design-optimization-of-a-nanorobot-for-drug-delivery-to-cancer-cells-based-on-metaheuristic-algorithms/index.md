@@ -20,8 +20,8 @@ all_day: false
 links:
   - name: Project Page
     url: https://kiarash-naghavi.netlify.app/project/multidisciplinary-design-optimization-of-a-nanorobot-for-drug-delivery-to-cancer-cells-based-on-genetic-algorithms/
-    icon_pack: fas
-    icon: page
+    icon_pack: null
+    icon: ""
 event: Bachelor Project
 event_url: https://kiarash-naghavi.netlify.app/project/multidisciplinary-design-optimization-of-a-nanorobot-for-drug-delivery-to-cancer-cells-based-on-genetic-algorithms/
 publishDate: 2021-08-16T18:18:06.009Z
