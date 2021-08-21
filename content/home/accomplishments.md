@@ -27,18 +27,18 @@ item:
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Robotech Academy
+  organization_url: https://robotech-academy.com
+  title: Preliminary Robotics and Mechatronics
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  description:Combustion Modeling by Prof. Alberto Cuoci, The first Iranian Combustion School 2019
+  organization: Sharif University of Technology
+  organization_url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
+  title: Combustion Modeling by Prof. Alberto Cuoci
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
