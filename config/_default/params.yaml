@@ -41,15 +41,15 @@ contact_links:
   - icon: telegram
     icon_pack: fab
     name: DM Me
-    link: "https://twitter.com/Twitter"
+    link: "https://t.me/kIA19rAsH99"
   - icon: skype
     icon_pack: fab
     name: Skype Me
     link: "https://join.skype.com/invite/aq2UXbeiDkdW"
-  - icon: comments
+  - icon: linkedin
     icon_pack: fas
-    name: Discuss on Forum
-    link: "https://discourse.gohugo.io"
+    name: Follow Me
+    link: "https://linkedin.com/in/kiarash-naghavi-93491193"
 
 # Site header
 
