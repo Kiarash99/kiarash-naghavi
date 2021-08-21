@@ -13,7 +13,7 @@ content:
       tag: "*"
     - name: Research
       tag: Research
-    - name: Teaching Assistant
+    - name: Teaching Assistantship
       tag: Teaching Assistant
     - name: Academic Projects
       tag: Academic Projects
