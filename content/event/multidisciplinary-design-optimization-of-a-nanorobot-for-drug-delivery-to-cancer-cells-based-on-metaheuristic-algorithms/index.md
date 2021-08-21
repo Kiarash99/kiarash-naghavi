@@ -13,8 +13,7 @@ abstract: This research aims to optimize the design of a nanorobot structure to
   to the nanorobot. Additionally, for the minor biological damage to the patient
   and to maximize the speed of drug delivery to the cell, we considered
   minimizing the target functions of the magnetic field and time, respectively.
-location: Sharif University of Technology
-date: 2021-08-16T18:18:05.980Z
+date: Spring 2021 – present
 date_end: 2021-08-16T18:20:10.067Z
 all_day: false
 links:
@@ -22,7 +21,6 @@ links:
     url: https://kiarash-naghavi.netlify.app/project/multidisciplinary-design-optimization-of-a-nanorobot-for-drug-delivery-to-cancer-cells-based-on-genetic-algorithms/
     icon_pack: null
     icon: ""
-Title: My Bachelor Project
 event_url: https://kiarash-naghavi.netlify.app/project/multidisciplinary-design-optimization-of-a-nanorobot-for-drug-delivery-to-cancer-cells-based-on-genetic-algorithms/
 publishDate: 2021-08-16T18:18:06.009Z
 draft: false
