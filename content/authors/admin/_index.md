@@ -6,9 +6,10 @@ bio: My research interests include Multi-disciplinary Design Optimization,
 interests:
   - Multi-disciplinary Design Optimization
   - Heuristic and Metaheuristic Algorithms
-  - Operations Research
   - Machine Learning
-  - Project Control
+  - Project Management
+  - Operations Research
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
