@@ -14,6 +14,8 @@ links:
     name: Certificate
   - name: Slides
     url: https://drive.google.com/file/d/1t-we0MhWanWaLZmHNh_yUQIKNxaEDqqt/view?usp=sharing
+  - url: https://drive.google.com/file/d/1dvR01Rgzw6TJq0MQk65ry3KQdO4E7qy7/view?usp=sharing
+    name: Code
 image:
   filename: featured.jpeg
   focal_point: Smart
