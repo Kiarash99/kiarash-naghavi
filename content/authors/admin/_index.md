@@ -19,6 +19,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/kiarash-naghavi-93491193
+  - display:
+      header: false
+    icon_pack: fab
+    icon: telegram
+    link: https://t.me/kIA19rAsH99
 organizations:
   - name: Department of Aerospace Engineering
     url: http://ae.sharif.ir/
