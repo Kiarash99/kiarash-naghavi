@@ -1,8 +1,7 @@
 ---
 role: B.Sc. Student
 avatar_filename: avatar.jpg
-bio: My research interests include Multi-disciplinary Design Optimization,
-  Machine Learning, and Project Control.
+bio: B.Sc. Student in Aerospace Engineering at Sharif University of Technology
 interests:
   - Multi-disciplinary Design Optimization
   - Heuristic and Metaheuristic Algorithms
