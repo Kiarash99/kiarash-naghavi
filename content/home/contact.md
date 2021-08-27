@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Looking forward to hearing from you
 
 content:
   # Automatically link email and phone or display as text?
