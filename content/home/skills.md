@@ -35,7 +35,7 @@ feature:
   - name: Document Preparation
     description: LaTeX, Microsoft Office
     icon: file
-    icon_pack: fa
+    icon_pack: fas
   - name: Languages
     description: Persian(Native), English(Fluent), German(Beginner), Arabic(Beginner)
     icon: language
