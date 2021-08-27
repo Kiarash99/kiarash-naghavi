@@ -33,12 +33,12 @@ feature:
     icon: user
     icon_pack: fas
   - name: Document Preparation
-    description: LaTeX, Microsoft Word
+    description: LaTeX, Microsoft Office
     icon: file
     icon_pack: fa
-  - name: Presentation Spreadsheet
-    description: Microsoft PowerPoint, Prezi, Excel, Xmind, Pages, Keynote
-    icon: eye
+  - name: Languages
+    description: Persian(Native), English(Fluent), German(Beginner), Arabic(Beginner)
+    icon: language
     icon_pack: fa
 # - description: 90%
 #   icon: r-project
