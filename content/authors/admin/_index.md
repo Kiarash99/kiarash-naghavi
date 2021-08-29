@@ -5,8 +5,8 @@ bio: B.Sc. Student in Aerospace Engineering at Sharif University of Technology
 interests:
   - Multi-disciplinary Design Optimization
   - Heuristic and Metaheuristic Algorithms
+  - Targeted Drug Delivery
   - Machine Learning
-  - Project Management
   - Operations Research
   - Artificial Intelligence
 social:
