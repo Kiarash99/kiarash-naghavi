@@ -46,4 +46,4 @@ My name is Kiarash Naghavi Khanghah. I am currently pursuing a bachelor’s degr
 
  I am also interested in artificial intelligence and machine learning and have taken introductory courses in reinforcement learning. I look forward to applying my knowledge of this area and Multidisciplinary Design Optimization in mechanical engineering applications. I am passionate about reading, meeting friends, and watching movies.
 
-{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/cv.pdf" "newtab" >}}résumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/cv_new.pdf" "newtab" >}}résumé{{< /staticref >}}.
