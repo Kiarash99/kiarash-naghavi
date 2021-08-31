@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://drive.google.com/file/d/1QkKjuG8y5GNOw-MY8FnT2B3UcSOE2TVx/view?usp=sharing
+- certificate_url: https://kiarash-naghavi.netlify.app/uploads/learning.jpeg
   date_end: "2021-07-30"
   date_start: "2021-07-22"
   description: ""
