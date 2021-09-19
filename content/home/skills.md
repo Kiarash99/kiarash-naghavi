@@ -37,7 +37,7 @@ feature:
     icon: file
     icon_pack: fas
   - name: Languages
-    description: Persian(Native), English(Fluent), German(Beginner), Arabic(Beginner)
+    description: Persian(Native), English(Fluent), German(Beginner)
     icon: language
     icon_pack: fa
 # - description: 90%
