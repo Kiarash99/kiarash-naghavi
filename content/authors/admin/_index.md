@@ -7,7 +7,7 @@ interests:
   - Heuristic and Metaheuristic Algorithms
   - Targeted Drug Delivery
   - Machine Learning
-  - Operations Research
+  - Structural Design
   - Artificial Intelligence
 social:
   - icon: envelope
