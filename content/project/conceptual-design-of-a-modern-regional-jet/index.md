@@ -1,5 +1,5 @@
 ---
-title: Conceptual Design of a Modern Regional Jet
+title: Conceptual Design of a Modern Regional Jets
 subtitle: 2021 American Institute of Aeronautics and Astronautics competition
 date: 2021-08-21T18:43:25.326Z
 summary: 2021 American Institute of Aeronautics and Astronautics
