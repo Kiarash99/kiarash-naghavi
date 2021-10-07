@@ -4,8 +4,8 @@ avatar_filename: avatar.jpg
 bio: B.Sc. Student in Aerospace Engineering at Sharif University of Technology
 interests:
   - Multi-disciplinary Design Optimization
-  - Heuristic and Metaheuristic Algorithms
   - Targeted Drug Delivery
+  - Control System
   - Machine Learning
   - Structural Design
   - Artificial Intelligence
