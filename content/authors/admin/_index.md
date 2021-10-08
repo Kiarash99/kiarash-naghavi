@@ -9,6 +9,7 @@ interests:
   - Machine Learning
   - Structural Design
   - Artificial Intelligence
+  - Finite Element Method
 social:
   - icon: envelope
     icon_pack: fas
