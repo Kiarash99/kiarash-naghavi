@@ -39,6 +39,8 @@ education:
     - course: Physics and mathematics Diploma
       institution: Mandegar Alborz High School
       year: ""
+    - course: "IELTS Band Score: 7.5"
+      institution: "Listening: 8.5  Reading: 7.5  Speaking: 7  Writing: 7"
 superuser: true
 highlight_name: false
 title: Kiarash Naghavi
