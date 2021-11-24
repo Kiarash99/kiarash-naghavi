@@ -2,7 +2,7 @@
 role: B.Sc. Student
 avatar_filename: avatar.jpg
 bio: B.Sc. Student in Aerospace Engineering at Sharif University of Technology
-interests:
+Experiences:
   - Mentioned in the CV
 social:
   - icon: envelope
