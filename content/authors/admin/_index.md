@@ -3,14 +3,7 @@ role: B.Sc. Student
 avatar_filename: avatar.jpg
 bio: B.Sc. Student in Aerospace Engineering at Sharif University of Technology
 interests:
-  - Multi-disciplinary Design Optimization
-  - Robotics
-  - Control System
-  - Finite Element Methods
-  - Machine Learning
-  - Structural Design
-  - Heuristic and Metaheuristic Algorithms
-  - Solid Mechanics
+  - Mentioned in the CV
 social:
   - icon: envelope
     icon_pack: fas
