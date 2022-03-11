@@ -25,7 +25,7 @@ feature:
     icon: object-group
     icon_pack: fas
   - name: Engineering Programs
-    description: Abaqus, XFLR5, EES, CES Edupack, GasTurb, Expert Choice, Arduino, profili, Proteus
+    description: Abaqus, EES, CES Edupack, Expert Choice, Arduino, Proteus
     icon: cogs
     icon_pack: fas
   - name: Project Management
