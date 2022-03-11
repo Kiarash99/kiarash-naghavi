@@ -39,14 +39,7 @@ item:
   organization_url: https://robotech-academy.com
   title: Preliminary Robotics and Mechatronics
   url: ""
-- certificate_url: https://drive.google.com/file/d/1Y8jNyQ_M5K8-Cp40Y2QJoByIi6b2i2Py/view?usp=sharing
-  date_end: ""
-  date_start: "2019-07-01"
-  description: Combustion Modeling by Prof. Alberto Cuoci, The first Iranian Combustion School 2019.
-  organization: Sharif University of Technology
-  organization_url: https://www.combustioninstitute.org/ci-event/iran-first-international-combustion-school-ics2019/
-  title: Combustion Modeling by Prof. Alberto Cuoci
-  url: ""
+
 
 design:
   columns: '2' 
