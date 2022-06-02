@@ -1,5 +1,5 @@
 ---
-title: Design-Build an autonomously operated able Rover
+title: Design-Build a Self-Driving Rover
 subtitle: Preliminary Robotics and Mechatronics Course project
 date: 2021-08-16T17:11:02.452Z
 summary: Preliminary Robotics and Mechatronics Course project
