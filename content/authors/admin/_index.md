@@ -41,6 +41,4 @@ email: ""
 ---
 << Page is under construction >>
 
-
-
-My name is Kiarash Naghavi Khanghah. I am currently pursuing a bachelor’s degree in aerospace engineering at the Sharif University of Technology in Tehran, Iran. My bachelor’s thesis focuses on Multidisciplinary Design Optimization of a Nanorobot for Drug Delivery to Cancer Cells Based on Metaheuristic Algorithms. I derive objective functions then optimize the design parameters by the suitable Metaheuristic Algorithm. You can view further information about my bachelor’s project [here](https://kiarash-naghavi.netlify.app/project/multidisciplinary-design-optimization-of-a-nanorobot-for-drug-delivery-to-cancer-cells-based-on-genetic-algorithms/). I am passionate about reading, meeting friends, and watching movies.
+My name is Kiarash Naghavi Khanghah. I obtained my bachelor’s degree in aerospace engineering from the Sharif University of Technology in Tehran, Iran. My bachelor’s thesis focused on Multidisciplinary Design Optimization of a Nanorobot for Drug Delivery to Cancer Cells Based on Metaheuristic Algorithms. I derived objective functions and then optimized the design parameters by the suitable Metaheuristic Algorithm. I am passionate about reading, meeting friends, and watching movies.
