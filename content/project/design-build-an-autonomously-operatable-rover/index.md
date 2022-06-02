@@ -21,11 +21,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This project was a joint project with Mr. Amir Mohammad Vahedi, which aimed to design a robot in SolidWorks and then build it; it can control autonomously and show its status by a GUI design via Python.
-
-
-
-
+This project aimed to design a robot in SolidWorks and then build it; it can control autonomously and show its status by a GUI design via Python.
 
 ![Project Presentation](1400-05-14-18.35.43.jpg "Project Presentation")
 
